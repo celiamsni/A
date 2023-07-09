@@ -88,25 +88,53 @@
             "portada":"1HNzz_FQOiadNhqi7rhmKkXJ9ldR0P5c4",
             "progreso":0,
             "actividades":[{
-                "actividad":"Repara el circuito de la puerta",
-                "imagenFondo":"1HNzz_FQOiadNhqi7rhmKkXJ9ldR0P5c4",
+                "actividad":"Misión I: Repara el circuito de la puerta",
+                "imagenFondo":"1vOG4zOdMymUCb9HSe44_ByDRNqCD06QK",
                 "imagenProblema":"https://api.com/imagen/24234",
+                "enunciado":"Colocando el voltímetro entre V.salida y tierra (V=0) te das cuenta de que el valor de V.salida es 3 Voltios. ¿Qué tensión de entrada tienes que aplicar para que la puerta se abra?",
                 "fechaBonus":"26/06/2023",
                 "fechaLimite":"29/06/2023",
                 "manual":"https://api.com/manual",
                 "escenasIntroductorias":[
                     {
-                        "imagen":"160mw0fGjmWbIKGNQrKZFgtz58yTCpa3I",
-                        "texto":"La puerta ha sido bloqueada por un mal funcionamiento de los circuitos",
+                        "imagen":"1QwzDzFapc9oMzVHL58VZ9_Gm3IVOqECv",
+                        "texto":"Algunos de tus compañeros están atrapados al otro lado de esta puerta...",
                         "audio":"https://api.com/audio/27"
                     },
                     {
-                        "imagen":"1yr242SHJ1f7zwE9FcF9b-utbwV4RO_qF",
-                        "texto":"La puerta ha sido bloqueada por un mal funcionamiento de los circuitos",
+                        "imagen":"1pRDWpqYvi3xmsPVaMzaLLCZm0DXVi-ND",
+                        "texto":"Del otro lado no tienen generadores de oxígeno, y las reservas se están agotando...",
+                        "audio":"https://api.com/audio/27"
+                    },
+                    {
+                        "imagen":"10nVDds3td7t3kSGok8TKXJD7uU2abKW0",
+                        "texto":"Arregla el circuito de la puerta y libéralos antes de que sea demasiado tarde...",
                         "audio":"https://api.com/audio/27"
                     }
                 ]
-            }]
+            },
+            {
+                "actividad":"Misión II: Arregla el generador de gravedad artificial",
+                "imagenFondo":"1P_2YZt4noAQgi0415lX-d5NwpIY5ZFzK",
+                "imagenProblema":"https://api.com/imagen/24234",
+                "enunciado":"Teniendo en cuenta la tabla lógica del generador... ¿Cuál es la pieza que falta?",
+                "fechaBonus":"26/06/2023",
+                "fechaLimite":"29/06/2023",
+                "manual":"https://api.com/manual",
+                "escenasIntroductorias":[
+                    {
+                        "imagen":"1FHem8SxuvYfao-JcNHgyguYPx40oF5-b",
+                        "texto":"El generador de gravedad artificial se ha estropeado y todo está patas arriba...",
+                        "audio":"https://api.com/audio/27"
+                    },
+                    {
+                        "imagen":"1uiuU8VU24hdSUJk62_L-p3dxH7Lnbevr",
+                        "texto":"No podemos salvar el mundo si ni siquiera podemos poner los pies en el suelo...¿Puedes encontrar la pieza que falta y arreglarlo?",
+                        "audio":"https://api.com/audio/27"
+                    }
+                ]
+            }
+        ]
         },
         {
             "codigo":"d",
