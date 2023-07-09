@@ -1,0 +1,14 @@
+#CORS
+Header set Access-Control-Allow-Origin "*"
+
+# Esta opción deshabilita el acceso a los directorios desde url
+Options All -Indexes
+
+# Permite trabajar con las url amigables (Solo si el rewrite está en on)
+Options -MultiViews
+RewriteEngine On
+
+# Condición para que cualquier parámetro de la url redireccione a index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [QSA,L]
+

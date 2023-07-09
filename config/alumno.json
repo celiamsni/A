@@ -2,7 +2,49 @@
     "tipo":"a",
     "nombre":"$username",
     "puntos":"12543",
-    "tiempoLimite":"",
+    "tiempoLimite":"2023-09-27T00:00:00",
+    "escenasIntroductorias":[
+        {
+            "imagen":"1f2eYhU8QS4Mn7zoF84qNK6F4Jcx2nNVw",
+            "texto":"Nuestro planeta... Nuestro hogar... Ya no queda nada...",
+            "audio":""
+        },
+        {
+            "imagen":"1sAOtWHRYTybMnLp3VePCX_eUE9dnxt4_",
+            "texto":"está destruido",
+            "audio":""
+        },
+        {
+            "imagen":"1yYx-zsEIpi7v2YbHKzJPqc6RhYruBhUb",
+            "texto":"",
+            "audio":""
+        },
+        {
+            "imagen":"11mz5sWf_RF96JSL3nQLnxw9hTNKicEAc",
+            "texto":"",
+            "audio":""
+        },
+        {
+            "imagen":"1822uBtDgVE1ntFbx48_gk1ExIf8zwGZF",
+            "texto":"",
+            "audio":""
+        },
+        {
+            "imagen":"1uU7Ud1YI1Ug_E6EV2M5-R9OQJCcY-4rq",
+            "texto":"",
+            "audio":""
+        },
+        {
+            "imagen":"1p7cyLCSxPnmk3GYC-Y7iAet-ds3Gvrz8",
+            "texto":"",
+            "audio":""
+        },
+        {
+            "imagen":"170y5BFDplKhidQT_Rq0haIbkRIXPjdGF",
+            "texto":"",
+            "audio":""
+        }
+    ],
     "ranking":[
         {
             "posicion":1,
@@ -39,17 +81,22 @@
             "codigo":"c",
             "nombre":"Electrónica",
             "portada":"1HNzz_FQOiadNhqi7rhmKkXJ9ldR0P5c4",
-            "progreso":2,
+            "progreso":0,
             "actividades":[{
                 "actividad":"Repara el circuito de la puerta",
-                "imagenFondo":"https://api.com/imagen/24135",
+                "imagenFondo":"1HNzz_FQOiadNhqi7rhmKkXJ9ldR0P5c4",
                 "imagenProblema":"https://api.com/imagen/24234",
                 "fechaBonus":"26/06/2023",
                 "fechaLimite":"29/06/2023",
                 "manual":"https://api.com/manual",
                 "escenasIntroductorias":[
                     {
-                        "imagen":"https://api.com/imagen/24235",
+                        "imagen":"160mw0fGjmWbIKGNQrKZFgtz58yTCpa3I",
+                        "texto":"La puerta ha sido bloqueada por un mal funcionamiento de los circuitos",
+                        "audio":"https://api.com/audio/27"
+                    },
+                    {
+                        "imagen":"1yr242SHJ1f7zwE9FcF9b-utbwV4RO_qF",
                         "texto":"La puerta ha sido bloqueada por un mal funcionamiento de los circuitos",
                         "audio":"https://api.com/audio/27"
                     }

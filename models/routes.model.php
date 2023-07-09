@@ -68,8 +68,17 @@ class RoutesModel{
 
     public function getClientHost(){
 
-        $clientArray = parse_url($_SERVER['HTTP_REFERER']);
-        return $clientArray['host'];
+        $referer = $_SERVER['HTTP_REFERER'] ?? null;
+
+        if($referer == null) die(ResponseController::json(401, "Unauthorized"));
+
+        $clientArray = parse_url($referer);
+
+        $host = $clientArray['host'] ?? null;
+
+        if($host == null) die(ResponseController::json(401, "Unauthorized"));
+
+        return $host;
 
     }
 
