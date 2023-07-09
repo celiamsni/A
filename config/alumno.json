@@ -153,6 +153,11 @@
                         "imagen":"1LUGo2gjmN4J4gygzTxndMEWvHfIJdWJo",
                         "texto":"¡Has conseguido arreglar el circuito y la puerta se está abriendo!",
                         "audio":"https://api.com/audio/27"
+                    },
+                    {
+                        "imagen":"1TTEaGA7HF5jS8VmFxrsHL5KdejmV1pLp",
+                        "texto":"Has llegado a tiempo, ves a tus compañeros a salvo al otro lado de la puerta.",
+                        "audio":"https://api.com/audio/27"
                     }
                 ]
             },
