@@ -6,47 +6,82 @@
     "escenasIntroductorias":[
         {
             "imagen":"1f2eYhU8QS4Mn7zoF84qNK6F4Jcx2nNVw",
-            "texto":"Nuestro planeta... Nuestro hogar... Ya no queda nada...",
+            "texto":"Como tantas otras veces, la humanidad se ha dado cuenta tarde...",
             "audio":""
         },
         {
             "imagen":"1sAOtWHRYTybMnLp3VePCX_eUE9dnxt4_",
-            "texto":"está destruido",
+            "texto":"Nuestro planeta... Nuestro hogar... Ya no queda nada...",
             "audio":""
         },
         {
             "imagen":"1yYx-zsEIpi7v2YbHKzJPqc6RhYruBhUb",
-            "texto":"chupala",
+            "texto":"Ya no hay árboles que limpien el aire que respiramos... hemos acabado con todos...",
             "audio":""
         },
         {
             "imagen":"11mz5sWf_RF96JSL3nQLnxw9hTNKicEAc",
-            "texto":"",
+            "texto":"Ya no se encuentra nada vivo en los ríos o en los mares... el agua está demiasiado contaminada para ellos...",
             "audio":""
         },
         {
-            "imagen":"1822uBtDgVE1ntFbx48_gk1ExIf8zwGZF",
-            "texto":"",
+            "imagen":"1YnDAnC5i6r5fH3FQoTopmX6x-ctYq9Jv",
+            "texto":"Las ciudades están completamente deshabidatas... a decir verdad, ya no quedamos muchos",
             "audio":""
         },
         {
-            "imagen":"1uU7Ud1YI1Ug_E6EV2M5-R9OQJCcY-4rq",
-            "texto":"",
+            "imagen":"1H5tDBJ_kQISZ7j8_gKTdabICJ040J5Lg",
+            "texto":"Los pocos que quedamos vivimos cubiertos por un amasijo de hierros y cristal que nos protege de la radiación y la contaminación que hay fuera...",
             "audio":""
         },
         {
-            "imagen":"1p7cyLCSxPnmk3GYC-Y7iAet-ds3Gvrz8",
-            "texto":"",
+            "imagen":"1d5KEypWhsDHYW5wOMkb3kQb9CpR49fYZ",
+            "texto":"La contaminación nos volvió enfermos y estériles... ya casi no nacen niños... y los pocos que nacen tienen problemas para respirar, y de muy pequeños viven encerrados en incubadoras...",
             "audio":""
         },
         {
-            "imagen":"170y5BFDplKhidQT_Rq0haIbkRIXPjdGF",
-            "texto":"",
+            "imagen":"1AzXReN8o5yVMft6gq-tUIIdpz16Xcxc2",
+            "texto":"nuestros hijos crecen conectados a máquinas para poder sobrevivir, ya no se ven niños corriendo ni jugando por ahí...",
             "audio":""
         },
-         {
-            "imagen":"160mw0fGjmWbIKGNQrKZFgtz58yTCpa3I",
-            "texto":"",
+        {
+            "imagen":"13LrIT6XWh-4V_u0xwEoP7qssliE62OK7",
+            "texto":"Quedan pocas plantas y animales... los que pudimos cobijar en las cúpulas. Los más jóvenes no han conocido el mundo antes de esto. Si tan solo pudieran verlo... olerlo... sentir el aire fresco mientras pasean por un bosque...",
+            "audio":""
+        },
+        {
+            "imagen":"1OnhFHd-aCK48wEEpfMN6fzoseyHP849D",
+            "texto":"La mayoría se han resignado... creen que está todo perdido... que tenemos lo que nos merecemos, que esto es un castigo por habernos cargado el regalo que se nos dió. Pero algunos no nos hemos rendido... Nos queda poco tiempo antes de perecer, pero no está todo perdido...",
+            "audio":""
+        },
+        {
+            "imagen":"1xsiGW9_FQ2O94Y2gmJ8XqVNYA30zXcLl",
+            "texto":"Hay un último plan... Un grupo de científicos, ingenieros y astronautas vamos a embarcarnos en una última misión... El objetivo es encontrar un planeta habitable donde poder salvar lo poco que aquí queda...",
+            "audio":""
+        },
+        {
+            "imagen":"1fV44sU86ktiBgeSA0i8xxnPOmMVKlNGm",
+            "texto":"No queda mucho tiempo antes de que el planeta colapse, pero todas las esperanzas de la humanidad dependen del éxito de esta misión...",
+            "audio":""
+        },
+        {
+            "imagen":"16Ec9ZrUrEcoZSJ-iTZdTcH0P4dkvJhCD",
+            "texto":"Pero... tras un par de meses de travesía algo terrible sucede... Sin poder corregir el rumbo, la nave se encuentra en medio de una lluvia de meteoritos que impactan provocando enormes daños...",
+            "audio":""
+        },
+        {
+            "imagen":"1j0b0rrV-rNYoJ2XOG2l0ldZ1IdVtilIy",
+            "texto":"El piloto consigue salvar la nave, pero muchos de los sistemas han dejado de funcionar...",
+            "audio":""
+        },
+        {
+            "imagen":"1N7jynU4ytzKbA5mHn8kg4pXJCCxmMIrH",
+            "texto":"Ahora mismo el destino de todos depende de que la misión se lleve a cabo con éxito. Solo hay una opción posible... Arreglar la nave, encontrar ese maldito planeta y llevar a todo el mundo hasta allí...",
+            "audio":""
+        },
+        {
+            "imagen":"1ikFO9u6vLjIKaolAvX7pku4CiEGnwDTn",
+            "texto":"Todos cuentan contigo para arreglar la nave... por eso estás aquí... es tu destino. Rápido... no nos queda tiempo...",
             "audio":""
         }
     ],
