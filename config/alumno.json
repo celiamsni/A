@@ -1,0 +1,78 @@
+{
+    "tipo":"a",
+    "nombre":"$username",
+    "puntos":"12543",
+    "tiempoLimite":"",
+    "ranking":[
+        {
+            "posicion":1,
+            "puntos":"92535",
+            "nombre":"Miguel",
+            "imagen":"1qaRZnoOefvbbVapayQsrHW64gbUeRWbm"
+        },
+        {
+            "posicion":2,
+            "puntos":"73768",
+            "nombre":"Hannah",
+            "imagen":"1nOSkHvGK71NPuLL-0X-Pb_T3OYs1GpKB"
+        },
+        {
+            "posicion":3,
+            "puntos":"66573",
+            "nombre":"Xiang Li",
+            "imagen":"18mcJDNKicOh7ilzkvBfLA2M7G3HX1ueo"
+        }
+    ],
+    "bloques":[{
+            "codigo":"a",
+            "nombre":"Tecnologías de la información y la comunicación",
+            "portada":"1g_2vzGEPQZVFeSRK3C4bM2ghqoeD4lIy",
+            "progreso":0
+        },
+        {
+            "codigo":"b",
+            "nombre":"Instalaciones en viviendas",
+            "portada":"1KQBWGkK6572tHpqUU_sW-tqJBkSn5ikv",
+            "progreso":0
+        },
+        {
+            "codigo":"c",
+            "nombre":"Electrónica",
+            "portada":"1HNzz_FQOiadNhqi7rhmKkXJ9ldR0P5c4",
+            "progreso":2,
+            "actividades":[{
+                "actividad":"Repara el circuito de la puerta",
+                "imagenFondo":"https://api.com/imagen/24135",
+                "imagenProblema":"https://api.com/imagen/24234",
+                "fechaBonus":"26/06/2023",
+                "fechaLimite":"29/06/2023",
+                "manual":"https://api.com/manual",
+                "escenasIntroductorias":[
+                    {
+                        "imagen":"https://api.com/imagen/24235",
+                        "texto":"La puerta ha sido bloqueada por un mal funcionamiento de los circuitos",
+                        "audio":"https://api.com/audio/27"
+                    }
+                ]
+            }]
+        },
+        {
+            "codigo":"d",
+            "nombre":"Control y robótica",
+            "portada":"160mw0fGjmWbIKGNQrKZFgtz58yTCpa3I",
+            "progreso":0
+        },
+        {
+            "codigo":"e",
+            "nombre":"Neumática e hidráulica",
+            "portada":"1UJE6-1gl7fITScWdB_TQxVCdk9Tri-Oh",
+            "progreso":0
+        },
+        {
+            "codigo":"f",
+            "nombre":"Tecnología y sociedad",
+            "portada":"1yr242SHJ1f7zwE9FcF9b-utbwV4RO_qF",
+            "progreso":0
+        }
+    ]
+}
