@@ -135,29 +135,29 @@
                     {
                         "imagen":"1QwzDzFapc9oMzVHL58VZ9_Gm3IVOqECv",
                         "texto":"Algunos de tus compañeros están atrapados al otro lado de esta puerta...",
-                        "audio":"https://api.com/audio/27"
+                        "audio":"1tLCGT2tqVDBBHQE6QNbWZTyArcCLF74T"
                     },
                     {
                         "imagen":"1pRDWpqYvi3xmsPVaMzaLLCZm0DXVi-ND",
                         "texto":"Del otro lado no tienen generadores de oxígeno, y las reservas se están agotando...",
-                        "audio":"https://api.com/audio/27"
+                        "audio":""
                     },
                     {
                         "imagen":"10nVDds3td7t3kSGok8TKXJD7uU2abKW0",
                         "texto":"Arregla el circuito de la puerta y libéralos antes de que sea demasiado tarde...",
-                        "audio":"https://api.com/audio/27"
+                        "audio":""
                     }
                 ],
                 "escenasFinales":[
                     {
                         "imagen":"1LUGo2gjmN4J4gygzTxndMEWvHfIJdWJo",
                         "texto":"¡Has conseguido arreglar el circuito y la puerta se está abriendo!",
-                        "audio":"https://api.com/audio/27"
+                        "audio":""
                     },
                     {
                         "imagen":"1TTEaGA7HF5jS8VmFxrsHL5KdejmV1pLp",
                         "texto":"Has llegado a tiempo, ves a tus compañeros a salvo al otro lado de la puerta.",
-                        "audio":"https://api.com/audio/27"
+                        "audio":""
                     }
                 ]
             },
@@ -174,19 +174,19 @@
                     {
                         "imagen":"1FHem8SxuvYfao-JcNHgyguYPx40oF5-b",
                         "texto":"El generador de gravedad artificial se ha estropeado y todo está patas arriba...",
-                        "audio":"https://api.com/audio/27"
+                        "audio":""
                     },
                     {
                         "imagen":"1uiuU8VU24hdSUJk62_L-p3dxH7Lnbevr",
                         "texto":"No podemos salvar el mundo si ni siquiera podemos poner los pies en el suelo...¿Puedes encontrar la pieza que falta y arreglarlo?",
-                        "audio":"https://api.com/audio/27"
+                        "audio":""
                     }
                 ],
                 "escenasFinales":[
                     {
                         "imagen":"1yM0lVaEkq7maJvL7d2dw4w6o0hMFNPuT",
                         "texto":"Nos informan desde la cabina de mando que la gravedad ha sido restaurada en todos los sectores.",
-                        "audio":"https://api.com/audio/27"
+                        "audio":""
                     }
                 ]
             }
