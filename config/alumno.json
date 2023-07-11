@@ -129,8 +129,8 @@
                 "solucion":1,
                 "enunciado":"Colocando el voltímetro entre V.salida y tierra (V=0) te das cuenta de que el valor de V.salida es 3 Voltios. ¿Qué tensión de entrada tienes que aplicar para que la puerta se abra?",
                 "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
-                "fechaBonus":"26/06/2023",
-                "fechaLimite":"29/06/2023",
+                "fechaBonus":"2023-07-27T00:00:00",
+                "fechaLimite":"2023-07-30T00:00:00",
                 "manual":"https://api.com/manual",
                 "escenasIntroductorias":[
                     {
@@ -169,8 +169,8 @@
                 "solucion":1,
                 "enunciado":"Teniendo en cuenta la tabla lógica del generador... ¿Cuál es la pieza que falta? Escribe en la casilla solución, en mayúsculas, el nombre de la puerta lógica que debe ir en la posición \"D\".",
                 "audio":"1o1-3B0oj7Ave_oOizgXJMefw5XhUiaUn",
-                "fechaBonus":"26/06/2023",
-                "fechaLimite":"29/06/2023",
+                "fechaBonus":"2023-08-03T00:00:00",
+                "fechaLimite":"2023-08-06T00:00:00",
                 "manual":"https://api.com/manual",
                 "escenasIntroductorias":[
                     {
