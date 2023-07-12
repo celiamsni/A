@@ -125,7 +125,7 @@
             "actividades":[{
                 "nombre":"Misión I: Repara el circuito de la puerta",
                 "imagenFondo":"1vOG4zOdMymUCb9HSe44_ByDRNqCD06QK",
-                "imagenProblema":"https://api.com/imagen/24234",
+                "imagenProblema":"1l2U7_fBohc9rNuXmF9pvHwFz3SpLSLA2",
                 "solucion":1,
                 "enunciado":"Colocando el voltímetro entre V.salida y tierra (V=0) te das cuenta de que el valor de V.salida es 3 Voltios. ¿Qué tensión de entrada tienes que aplicar para que la puerta se abra?",
                 "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
@@ -165,7 +165,7 @@
             {
                 "nombre":"Misión II: Arregla el generador de gravedad artificial",
                 "imagenFondo":"1P_2YZt4noAQgi0415lX-d5NwpIY5ZFzK",
-                "imagenProblema":"https://api.com/imagen/24234",
+                "imagenProblema":"1l2U7_fBohc9rNuXmF9pvHwFz3SpLSLA2",
                 "solucion":1,
                 "enunciado":"Teniendo en cuenta la tabla lógica del generador... ¿Cuál es la pieza que falta? Escribe en la casilla solución, en mayúsculas, el nombre de la puerta lógica que debe ir en la posición \"D\".",
                 "audio":"1o1-3B0oj7Ave_oOizgXJMefw5XhUiaUn",
