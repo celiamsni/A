@@ -123,7 +123,7 @@ class RoutesModel{
 
     public function login($database, $service, $username, $password){
         
-        $verified = $username === 'usuario' && $password === 'contrasena'; // IMPLEMENTAR | Verificación de las credenciales
+        $verified = $username === 'Manolito' && $password === 'contrasena'; // IMPLEMENTAR | Verificación de las credenciales
 
         // Si los datos de inicio de sesión no son correctos
         if(!$verified){
