@@ -125,7 +125,7 @@
                 "imagenProblema":"1qUbun42RqhHYvFgWdpmXaUHiTWRKHNKh",
                 "solucion":"Coaxial",
                 "enunciado":"Necesitamos soldar el cable correcto. El sistema tiene registrado que la velocidad de transmisión de datos máxima es de 1Gb… ¿Qué tipo de cable es necesario conectar?",
-                "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
+                "audio":"1ZczwzxGZsKRIHBYfsYOyK5lRwdhO2JAH",
                 "fechaBonus":"2023-10-25T00:00:00",
                 "fechaLimite":"2023-10-30T00:00:00",
                 "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
@@ -133,7 +133,7 @@
                     {
                         "imagen":"1RzA7INeuiqD-GXeN5F02r7C-7CBq7Clz",
                         "texto":"Hemos perdido la comunicación con la base… El sistema ha detectado que el cable que comunica con la antena de comunicaciones se ha seccionado. ",
-                        "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
+                        "audio":"1fXbYAxq2kOLCh-u0DNSSy-2d7EZbCeCI"
                     }
                     
                 ],
@@ -141,7 +141,7 @@
                     {
                         "imagen":"13c-Mf4gD85lqDUujlIIQ1vB4qVuWvbs1",
                         "texto":"¡Enhorabuena! Has escogido el cable correcto",
-                        "audio":"1wwh6GMigtEyguCuv5HVWvx8TNxBrU1oq"
+                        "audio":"1nTEtQA9XPNbWmgnVJM5F-XycB-SSohPO"
                     }
                     
                 ]
