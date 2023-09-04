@@ -335,7 +335,7 @@
                 "nombre":"Misión I: Variable de entrada errónea",
                 "imagenFondo":"1eZMaV3u_GOCtUJJNe1Iecc2_r7rlGTYs",
                 "imagenProblema":"12cXopVFMf_f3iPdA45KqrdQV70IAgMsG",
-                "solucion":"2,6",
+                "solucion":"C",
                 "enunciado":"El sistema ha identificado estas variables de entrada, pero sigue sin funcionar. Una de ellas no debe ser una variable de entrada. Escribe A, B o C en la casilla solución.",
                 "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
                 "fechaBonus":"2023-10-15T00:00:00",
