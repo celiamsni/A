@@ -329,7 +329,36 @@
             "codigo":"d",
             "nombre":"Control y robótica",
             "portada":"160mw0fGjmWbIKGNQrKZFgtz58yTCpa3I",
-            "progreso":0
+            "progreso":0,
+            "actividades":[
+                {
+                "nombre":"Misión I: Variable de entrada errónea",
+                "imagenFondo":"1eZMaV3u_GOCtUJJNe1Iecc2_r7rlGTYs",
+                "imagenProblema":"12cXopVFMf_f3iPdA45KqrdQV70IAgMsG",
+                "solucion":"2,6",
+                "enunciado":"El sistema ha identificado estas variables de entrada, pero sigue sin funcionar. Una de ellas no debe ser una variable de entrada. Escribe A, B o C en la casilla solución.",
+                "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
+                "fechaBonus":"2023-10-15T00:00:00",
+                "fechaLimite":"2023-10-20T00:00:00",
+                "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
+                "escenasIntroductorias":[
+                    {
+                        "imagen":"1gLASXfTd5jqhNS3xhyTBd8nJnb0EFcBp",
+                        "texto":"Se ha roto la válvula de inyección de combustible. La hemos conseguido remplazar por una nueva, pero hay que reprogramarla para que funcione.",
+                        "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
+                    }
+                    
+                ],
+                "escenasFinales":[
+                    {
+                        "imagen":"1rpoLbMea9w5ROVPal04XYY-drbQUA3Pj",
+                        "texto":"¡Enhorabuena¡ ¡Has descubierto el fallo¡",
+                        "audio":"1Urg6Wqd95gtiw4_Ch2hSKv3e4OCMYQTc"
+                    }
+                    
+                ]
+            }
+        ]
         },
         {
             "codigo":"e",
