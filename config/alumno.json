@@ -372,7 +372,7 @@
                 "imagenProblema":"14bUb4TL80IGkvNLd3X-ARKmAMjWkPLEZ",
                 "solucion":"2,6",
                 "enunciado":"La temperatura del fluido parte de unos 30ºC y sube otros 140ºC. Sabiendo que antes de la combustión estaba a 4 atm de presión... ¿Por cuánto supera la presión el límite de 20 atmósferas?",
-                "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
+                "audio":"1HdlY51sfcWrZqwbtXbtad_xK-hykhNn6",
                 "fechaBonus":"2023-10-25T00:00:00",
                 "fechaLimite":"2023-10-30T00:00:00",
                 "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
@@ -380,7 +380,7 @@
                     {
                         "imagen":"18fCMweahw0l6WuKUQKqMFuR9sJf36UEx",
                         "texto":"Con la reparación del sistema de calefacción de la sala de mandos, se produjeron avisos de sobrepresión en el sistema... ¡El límite seguro son 20 atm!",
-                        "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
+                        "audio":"18dF1W8kzOBWsZTN8YRkZSRvbjcl5iBq8"
                     }
                     
                 ],
@@ -388,7 +388,7 @@
                     {
                         "imagen":"13c-Mf4gD85lqDUujlIIQ1vB4qVuWvbs1",
                         "texto":"¡Has conseguido regular la presión a tiempo! ¡Buen trabajo!",
-                        "audio":"1Urg6Wqd95gtiw4_Ch2hSKv3e4OCMYQTc"
+                        "audio":"14_bIiMw2Hc1bsibi7uQqguf3ZnUb6-6I"
                     }
                     
                 ]
@@ -399,7 +399,7 @@
                 "imagenProblema":"1rbEmzHNuKNgwGJvVnVHxjH7uhFFS6OJF",
                 "solucion":"150",
                 "enunciado":"Teniendo en cuenta la misión anterior, en la que la presión máxima del sistema son 20 atmósferas, y sabiendo que antes de la combustión está a 4 atmósferas… ¿Qué temperatura máxima admite el sistema?",
-                "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
+                "audio":"1HJrcf6dqefyRi2pwv7bPfXVEIuNflxDF",
                 "fechaBonus":"2023-10-25T00:00:00",
                 "fechaLimite":"2023-10-30T00:00:00",
                 "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
@@ -407,7 +407,7 @@
                     {
                         "imagen":"1wNGbsZ5aCbVZkj09zqRv8JIJV3jdG90l",
                         "texto":"Para mantener una presión estable es necesario regular la temperatura del sistema!",
-                        "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
+                        "audio":"1DWJexABcA0VPOmqcbPfdPJ7fZw4o04pl"
                     }
                     
                 ],
@@ -415,7 +415,7 @@
                     {
                         "imagen":"1yhJ8T_7xRjdxjEpAul2dr7Sw0aLm16ei",
                         "texto":"Has consegudo bajar la temperatura! Enhorabuena! Has salvado otra vez la nave!",
-                        "audio":"1Urg6Wqd95gtiw4_Ch2hSKv3e4OCMYQTc"
+                        "audio":"1dJqLtRoaT11qnESEoAu-7ILL5633nhk7"
                     }
                     
                 ]
