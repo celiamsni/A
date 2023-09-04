@@ -121,17 +121,17 @@
             "actividades":[
                 {
                 "nombre":"Misión I: Restablece las comunicaciones",
-                "imagenFondo":"1fces3RDykErBFWtJMlSaFpEnWlX0m5CI",
-                "imagenProblema":"14bUb4TL80IGkvNLd3X-ARKmAMjWkPLEZ",
-                "solucion":"2,6",
-                "enunciado":"Necesitamos que sueldes el cable correcto. El sistema tiene registrado que la velocidad de transmisión de datos máxima es de 1Gb… ¿Qué tipo de cable es necesario conectar?",
+                "imagenFondo":"1XAp0JVX18GTmkNWocSHXsPDn-50O2XYi",
+                "imagenProblema":"1qUbun42RqhHYvFgWdpmXaUHiTWRKHNKh",
+                "solucion":"Coaxial",
+                "enunciado":"Necesitamos soldar el cable correcto. El sistema tiene registrado que la velocidad de transmisión de datos máxima es de 1Gb… ¿Qué tipo de cable es necesario conectar?",
                 "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
                 "fechaBonus":"2023-10-25T00:00:00",
                 "fechaLimite":"2023-10-30T00:00:00",
                 "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
                 "escenasIntroductorias":[
                     {
-                        "imagen":"18fCMweahw0l6WuKUQKqMFuR9sJf36UEx",
+                        "imagen":"1RzA7INeuiqD-GXeN5F02r7C-7CBq7Clz",
                         "texto":"Hemos perdido la comunicación con la base… El sistema ha detectado que el cable que comunica con la antena de comunicaciones se ha seccionado. ",
                         "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
                     }
@@ -141,24 +141,24 @@
                     {
                         "imagen":"13c-Mf4gD85lqDUujlIIQ1vB4qVuWvbs1",
                         "texto":"¡Enhorabuena! Has escogido el cable correcto",
-                        "audio":"1Urg6Wqd95gtiw4_Ch2hSKv3e4OCMYQTc"
+                        "audio":"1wwh6GMigtEyguCuv5HVWvx8TNxBrU1oq"
                     }
                     
                 ]
             },
             {
                 "nombre":"Misión II: Envía el mensaje",
-                "imagenFondo":"1utU2140qy_rFZ0IArW3bjYARyyGHn-1V",
-                "imagenProblema":"1rbEmzHNuKNgwGJvVnVHxjH7uhFFS6OJF",
-                "solucion":"150",
-                "enunciado":"¿Qué longitud de onda se necesita configurar para poder mandar la señal? Se sabe que la frecuencia de las microondas de comunicación satelital es de 3GHz.",
+                "imagenFondo":"18w8QxmElaol6oUVOccK0oW-USyuXAXH5",
+                "imagenProblema":"1-f16TX0MWoqNotx3Elo8agJZgqUwhZNj",
+                "solucion":"0,1",
+                "enunciado":"¿Qué longitud de onda se necesita configurar para poder mandar la señal? Se sabe que la frecuencia de las microondas de comunicación satelital es de 3GHz. Escribe la respuesta en metros",
                 "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
                 "fechaBonus":"2023-10-25T00:00:00",
                 "fechaLimite":"2023-10-30T00:00:00",
                 "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
                 "escenasIntroductorias":[
                     {
-                        "imagen":"1wNGbsZ5aCbVZkj09zqRv8JIJV3jdG90l",
+                        "imagen":"1TqrPWBRpMjPOBoOz5vbJWbRegsT9xHsl",
                         "texto":"Una vez restablecido el sistema, necesitamos enviar una señal a la Tierra.",
                         "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
                     }
@@ -166,7 +166,7 @@
                 ],
                 "escenasFinales":[
                     {
-                        "imagen":"1yhJ8T_7xRjdxjEpAul2dr7Sw0aLm16ei",
+                        "imagen":"13Pss-cssl78ePVKYZZ9bBI34gz_Djzer",
                         "texto":"¡Enhorabuena! ¡El mensaje ha llegado alto y claro!",
                         "audio":"1Urg6Wqd95gtiw4_Ch2hSKv3e4OCMYQTc"
                     }
