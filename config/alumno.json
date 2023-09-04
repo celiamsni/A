@@ -123,7 +123,42 @@
             "codigo":"b",
             "nombre":"Instalaciones en viviendas",
             "portada":"1KQBWGkK6572tHpqUU_sW-tqJBkSn5ikv",
-            "progreso":0
+            "progreso":0,
+            "actividades":[{
+                "nombre":"Misión I: Recarga las baterías de repuesto",
+                "imagenFondo":"1vOG4zOdMymUCb9HSe44_ByDRNqCD06QK",
+                "imagenProblema":"1bTrANsEQS4sjCJMptrewNKmRM2bUEMEF",
+                "solucion":"332,2",
+                "enunciado":"Sabiendo que la batería tiene una resistencia de 8 ohmios y un consumo de 2,5 kWh. ¿Qué tensión tienes que aportar para cargarla en este tiempo?",
+                "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
+                "fechaBonus":"2023-09-25T00:00:00",
+                "fechaLimite":"2023-09-30T00:00:00",
+                "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
+                "escenasIntroductorias":[
+                    {
+                        "imagen":"1QwzDzFapc9oMzVHL58VZ9_Gm3IVOqECv",
+                        "texto":"¡El asteroide ha deteriorado las baterías de uno de los propulsores!",
+                        "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
+                    },
+                    {
+                        "imagen":"1pRDWpqYvi3xmsPVaMzaLLCZm0DXVi-ND",
+                        "texto":"Es necesario la recarga de una de las baterías de repuesto antes de la siguiente tanda de asteroides que será dentro de 10 minutos",
+                        "audio":"1hD0hH3LoEl3DCl2gws8c0ThVra1p9xrt"
+                    }
+                ],
+                "escenasFinales":[
+                    {
+                        "imagen":"1LUGo2gjmN4J4gygzTxndMEWvHfIJdWJo",
+                        "texto":"¡Has conseguido recargar las baterías a tiempo",
+                        "audio":"1Urg6Wqd95gtiw4_Ch2hSKv3e4OCMYQTc"
+                    },
+                    {
+                        "imagen":"1TTEaGA7HF5jS8VmFxrsHL5KdejmV1pLp",
+                        "texto":"El piloto puede sacarnos a todos pitando de aquí",
+                        "audio":"1HLh5b7D2E6skMoe3TBi7CzX7CGvBQ0cO"
+                    }
+                ]
+            }]
         },
         {
             "codigo":"c",
