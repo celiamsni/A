@@ -124,41 +124,73 @@
             "nombre":"Instalaciones en viviendas",
             "portada":"1KQBWGkK6572tHpqUU_sW-tqJBkSn5ikv",
             "progreso":0,
-            "actividades":[{
+            "actividades":[
+                {
                 "nombre":"Misión I: Recarga las baterías de repuesto",
-                "imagenFondo":"1vOG4zOdMymUCb9HSe44_ByDRNqCD06QK",
-                "imagenProblema":"1bTrANsEQS4sjCJMptrewNKmRM2bUEMEF",
+                "imagenFondo":"1Q3qYLWy3cuiEKM8czvE1XeWhtGeHiSJS",
+                "imagenProblema":"1Rrkk4uRYBWw7yyb9QKOhlg00ieWCUQG5",
                 "solucion":"332,2",
-                "enunciado":"Sabiendo que la batería tiene una resistencia de 8 ohmios y un consumo de 2,5 kWh. ¿Qué tensión tienes que aportar para cargarla en este tiempo?",
+                "enunciado":"Sabiendo que la batería tiene una resistencia de 8 ohmios y un consumo de 2,5 kWh... ¿Qué tensión tienes que aportar para cargarla en estos 10 minutos?",
                 "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
                 "fechaBonus":"2023-09-25T00:00:00",
                 "fechaLimite":"2023-09-30T00:00:00",
                 "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
                 "escenasIntroductorias":[
                     {
-                        "imagen":"1QwzDzFapc9oMzVHL58VZ9_Gm3IVOqECv",
+                        "imagen":"1uAssmNQoog1fgfXgSzHBUSjCP69yYHrs",
                         "texto":"¡El asteroide ha deteriorado las baterías de uno de los propulsores!",
                         "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
                     },
                     {
                         "imagen":"1pRDWpqYvi3xmsPVaMzaLLCZm0DXVi-ND",
-                        "texto":"Es necesario la recarga de una de las baterías de repuesto antes de la siguiente tanda de asteroides que será dentro de 10 minutos",
-                        "audio":"1hD0hH3LoEl3DCl2gws8c0ThVra1p9xrt"
+                        "texto":"¡Es necesario la recarga de una de las baterías de repuesto antes de la siguiente tanda de asteroides, que será dentro de 10 minutos!",
+                        "audio":"1qJvl_lv-kDywT1hh00mfwkN_1AK60-CE"
                     }
                 ],
                 "escenasFinales":[
                     {
-                        "imagen":"1LUGo2gjmN4J4gygzTxndMEWvHfIJdWJo",
-                        "texto":"¡Has conseguido recargar las baterías a tiempo",
+                        "imagen":"WZVnSh_dQknk6IemwePrAGlhX6YikSTP",
+                        "texto":"¡Has conseguido recargar las baterías a tiempo!",
                         "audio":"1Urg6Wqd95gtiw4_Ch2hSKv3e4OCMYQTc"
                     },
                     {
-                        "imagen":"1TTEaGA7HF5jS8VmFxrsHL5KdejmV1pLp",
-                        "texto":"El piloto puede sacarnos a todos pitando de aquí",
+                        "imagen":"1H_5L6djLbg0ZDSjeDPlI0J1-5Y9WYmlk",
+                        "texto":"El piloto puede sacarnos a todos pitando de aquí...",
                         "audio":"1HLh5b7D2E6skMoe3TBi7CzX7CGvBQ0cO"
                     }
                 ]
-            }]
+            },
+            {
+                "nombre":"Misión II: Hace un frío que pela",
+                "imagenFondo":"1IZ1QhRF3VKQg3FhDaAcswdW1u4ZkPU5T",
+                "imagenProblema":"1JMV0elsuiisZlEDCNCT7nostK4k6aNd-",
+                "solucion":"Bomba",
+                "enunciado":"Este sistema de calefacción funciona mediante la combustión de un material que calienta un fluido similar al agua y haciendo recorrer este por toda la cabina. Sabiendo que el fluido ya caliente no llega hasta los radiadores de la sala de control ¿Qué pieza requiere reparación?",
+                "audio":"1o1-3B0oj7Ave_oOizgXJMefw5XhUiaUn",
+                "fechaBonus":"2023-09-25T00:00:00",
+                "fechaLimite":"2023-09-25T00:00:00",
+                "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
+                "escenasIntroductorias":[
+                    {
+                        "imagen":"1aKO0z66GkBJSYQmmHvWzW6-vT_l_bCns",
+                        "texto":"Hay un fallo en el sistema de calefacción de la sala de control!",
+                        "audio":"1kMWQVoEP6PopQLavZ5apl3AF9in3NVs7"
+                    },
+                    {
+                        "imagen":"1G1UJvIyDr4QZPxHeWAnh28oqXtGkWlsY",
+                        "texto":"Arréglalo antes de que el piloto se congele!",
+                        "audio":"1EQXyQIcqzhWwW3d26RmE_-agVKDlUxUj"
+                    }
+                ],
+                "escenasFinales":[
+                    {
+                        "imagen":"1AbibAaa29JBrZfoDeVGjRCiLSF_Ygs44",
+                        "texto":"Has encontrado la pieza defectuosa! Nadie morirá congelado hoy!",
+                        "audio":"1IkM0z_cI5rdY5IS5eJwYlxjnUKyP7NZM"
+                    }
+                ]
+            }
+        ]
         },
         {
             "codigo":"c",
@@ -247,7 +279,63 @@
             "codigo":"e",
             "nombre":"Neumática e hidráulica",
             "portada":"1UJE6-1gl7fITScWdB_TQxVCdk9Tri-Oh",
-            "progreso":0
+            "progreso":0,
+            "actividades":[
+                {
+                "nombre":"Misión I: Sobrepresión en el sistema",
+                "imagenFondo":"1fces3RDykErBFWtJMlSaFpEnWlX0m5CI",
+                "imagenProblema":"14bUb4TL80IGkvNLd3X-ARKmAMjWkPLEZ",
+                "solucion":"2,6",
+                "enunciado":"La temperatura del fluido parte de unos 30ºC y sube otros 140ºC. Sabiendo que antes de la combustión estaba a 4 atm de presión... ¿Por cuánto supera la presión el límite de 20 atmósferas?",
+                "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
+                "fechaBonus":"2023-10-25T00:00:00",
+                "fechaLimite":"2023-10-30T00:00:00",
+                "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
+                "escenasIntroductorias":[
+                    {
+                        "imagen":"18fCMweahw0l6WuKUQKqMFuR9sJf36UEx",
+                        "texto":"Con la reparación del sistema de calefacción de la sala de mandos, se produjeron avisos de sobrepresión en el sistema... El límite seguro son 20 atm!!",
+                        "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
+                    }
+                    
+                ],
+                "escenasFinales":[
+                    {
+                        "imagen":"13c-Mf4gD85lqDUujlIIQ1vB4qVuWvbs1",
+                        "texto":"Has consegudo regular la presión a tiempo! Buen trabajo!",
+                        "audio":"1Urg6Wqd95gtiw4_Ch2hSKv3e4OCMYQTc"
+                    }
+                    
+                ]
+            },
+            {
+                "nombre":"Misión II: La cosa está que arde",
+                "imagenFondo":"1utU2140qy_rFZ0IArW3bjYARyyGHn-1V",
+                "imagenProblema":"1rbEmzHNuKNgwGJvVnVHxjH7uhFFS6OJF",
+                "solucion":"150",
+                "enunciado":"Teniendo en cuenta la misión anterior, en la que la presión máxima del sistema son 20 atmósferas, y sabiendo que antes de la combustión está a 4 atmósferas… ¿Qué temperatura máxima que admite el sistema?",
+                "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
+                "fechaBonus":"2023-10-25T00:00:00",
+                "fechaLimite":"2023-10-30T00:00:00",
+                "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
+                "escenasIntroductorias":[
+                    {
+                        "imagen":"1wNGbsZ5aCbVZkj09zqRv8JIJV3jdG90l",
+                        "texto":"Para mantener una presión estable es necesario regular la temperatura del sistema!",
+                        "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
+                    }
+                    
+                ],
+                "escenasFinales":[
+                    {
+                        "imagen":"1yhJ8T_7xRjdxjEpAul2dr7Sw0aLm16ei",
+                        "texto":"Has consegudo bajar la temperatura! Enhorabuena! Has salvado otra vez la nave!",
+                        "audio":"1Urg6Wqd95gtiw4_Ch2hSKv3e4OCMYQTc"
+                    }
+                    
+                ]
+            }
+        ]
         },
         {
             "codigo":"f",
