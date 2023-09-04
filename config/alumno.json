@@ -117,7 +117,63 @@
             "codigo":"a",
             "nombre":"Tecnologías de la información y la comunicación",
             "portada":"1g_2vzGEPQZVFeSRK3C4bM2ghqoeD4lIy",
-            "progreso":0
+            "progreso":0,
+            "actividades":[
+                {
+                "nombre":"Misión I: Restablece las comunicaciones",
+                "imagenFondo":"1fces3RDykErBFWtJMlSaFpEnWlX0m5CI",
+                "imagenProblema":"14bUb4TL80IGkvNLd3X-ARKmAMjWkPLEZ",
+                "solucion":"2,6",
+                "enunciado":"Necesitamos que sueldes el cable correcto. El sistema tiene registrado que la velocidad de transmisión de datos máxima es de 1Gb… ¿Qué tipo de cable es necesario conectar?",
+                "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
+                "fechaBonus":"2023-10-25T00:00:00",
+                "fechaLimite":"2023-10-30T00:00:00",
+                "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
+                "escenasIntroductorias":[
+                    {
+                        "imagen":"18fCMweahw0l6WuKUQKqMFuR9sJf36UEx",
+                        "texto":"Hemos perdido la comunicación con la base… El sistema ha detectado que el cable que comunica con la antena de comunicaciones se ha seccionado. ",
+                        "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
+                    }
+                    
+                ],
+                "escenasFinales":[
+                    {
+                        "imagen":"13c-Mf4gD85lqDUujlIIQ1vB4qVuWvbs1",
+                        "texto":"¡Enhorabuena! Has escogido el cable correcto",
+                        "audio":"1Urg6Wqd95gtiw4_Ch2hSKv3e4OCMYQTc"
+                    }
+                    
+                ]
+            },
+            {
+                "nombre":"Misión II: Envía el mensaje",
+                "imagenFondo":"1utU2140qy_rFZ0IArW3bjYARyyGHn-1V",
+                "imagenProblema":"1rbEmzHNuKNgwGJvVnVHxjH7uhFFS6OJF",
+                "solucion":"150",
+                "enunciado":"¿Qué longitud de onda se necesita configurar para poder mandar la señal? Se sabe que la frecuencia de las microondas de comunicación satelital es de 3GHz.",
+                "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
+                "fechaBonus":"2023-10-25T00:00:00",
+                "fechaLimite":"2023-10-30T00:00:00",
+                "manual":"https://drive.google.com/drive/folders/1q8ZJufSyXuEzBjXcnqdBHyj2G9tX8um_?usp=sharing",
+                "escenasIntroductorias":[
+                    {
+                        "imagen":"1wNGbsZ5aCbVZkj09zqRv8JIJV3jdG90l",
+                        "texto":"Una vez restablecido el sistema, necesitamos enviar una señal a la Tierra.",
+                        "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
+                    }
+                    
+                ],
+                "escenasFinales":[
+                    {
+                        "imagen":"1yhJ8T_7xRjdxjEpAul2dr7Sw0aLm16ei",
+                        "texto":"¡Enhorabuena! ¡El mensaje ha llegado alto y claro!",
+                        "audio":"1Urg6Wqd95gtiw4_Ch2hSKv3e4OCMYQTc"
+                    }
+                    
+                ]
+            }
+        ]
         },
         {
             "codigo":"b",
@@ -200,8 +256,8 @@
             "actividades":[{
                 "nombre":"Misión I: Repara el circuito de la puerta",
                 "imagenFondo":"1vOG4zOdMymUCb9HSe44_ByDRNqCD06QK",
-                "imagenProblema":"1bTrANsEQS4sjCJMptrewNKmRM2bUEMEF",
-                "solucion":1,
+                "imagenProblema":"1_y8Fmdr7_JJ2KDu9V73LRML-WyOx89Xp",
+                "solucion":"3,75",
                 "enunciado":"Colocando el voltímetro entre V.salida y tierra (V=0) te das cuenta de que el valor de V.salida es 3 Voltios. ¿Qué tensión de entrada tienes que aplicar para que la puerta se abra?",
                 "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
                 "fechaBonus":"2023-10-27T00:00:00",
@@ -240,8 +296,8 @@
             {
                 "nombre":"Misión II: Arregla el generador de gravedad artificial",
                 "imagenFondo":"1P_2YZt4noAQgi0415lX-d5NwpIY5ZFzK",
-                "imagenProblema":"1GcUcRk5WCC34VSpqnAOHkI2YxvWx4gdW",
-                "solucion":1,
+                "imagenProblema":"13nxxKs2WBrl5VqDUhpCZ44cdWxhdAqvp",
+                "solucion":"NOR",
                 "enunciado":"Teniendo en cuenta la tabla lógica del generador... ¿Cuál es la pieza que falta? Escribe en la casilla solución, en mayúsculas, el nombre de la puerta lógica que debe ir en la posición \"D\".",
                 "audio":"1o1-3B0oj7Ave_oOizgXJMefw5XhUiaUn",
                 "fechaBonus":"2023-10-03T00:00:00",
@@ -294,7 +350,7 @@
                 "escenasIntroductorias":[
                     {
                         "imagen":"18fCMweahw0l6WuKUQKqMFuR9sJf36UEx",
-                        "texto":"Con la reparación del sistema de calefacción de la sala de mandos, se produjeron avisos de sobrepresión en el sistema... El límite seguro son 20 atm!!",
+                        "texto":"Con la reparación del sistema de calefacción de la sala de mandos, se produjeron avisos de sobrepresión en el sistema... ¡El límite seguro son 20 atm!",
                         "audio":"13o6rBqGuHkiKFtbPDo0e_GQBOV2D6UE_"
                     }
                     
@@ -302,7 +358,7 @@
                 "escenasFinales":[
                     {
                         "imagen":"13c-Mf4gD85lqDUujlIIQ1vB4qVuWvbs1",
-                        "texto":"Has consegudo regular la presión a tiempo! Buen trabajo!",
+                        "texto":"¡Has conseguido regular la presión a tiempo! ¡Buen trabajo!",
                         "audio":"1Urg6Wqd95gtiw4_Ch2hSKv3e4OCMYQTc"
                     }
                     
@@ -313,7 +369,7 @@
                 "imagenFondo":"1utU2140qy_rFZ0IArW3bjYARyyGHn-1V",
                 "imagenProblema":"1rbEmzHNuKNgwGJvVnVHxjH7uhFFS6OJF",
                 "solucion":"150",
-                "enunciado":"Teniendo en cuenta la misión anterior, en la que la presión máxima del sistema son 20 atmósferas, y sabiendo que antes de la combustión está a 4 atmósferas… ¿Qué temperatura máxima que admite el sistema?",
+                "enunciado":"Teniendo en cuenta la misión anterior, en la que la presión máxima del sistema son 20 atmósferas, y sabiendo que antes de la combustión está a 4 atmósferas… ¿Qué temperatura máxima admite el sistema?",
                 "audio":"1C1b5qMmzpEqWqF9qU1yfJTPbOsspJTyn",
                 "fechaBonus":"2023-10-25T00:00:00",
                 "fechaLimite":"2023-10-30T00:00:00",
